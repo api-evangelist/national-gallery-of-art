@@ -24,6 +24,8 @@ tags:
   - Cultural Heritage
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/national-gallery-of-art
   - type: Website
     url: https://www.nga.gov/
   - type: Portal
