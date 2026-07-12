@@ -24,6 +24,8 @@ tags:
   - Cultural Heritage
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/national-gallery-of-art-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/national-gallery-of-art
   - type: Website
