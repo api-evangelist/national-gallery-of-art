@@ -40,7 +40,7 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
   - Art
-  - Federal-Government
+  - Federal Government
   - Museums
   - Open Data
   - Cultural Heritage
@@ -50,6 +50,7 @@ tags_raw:
   - Museum
   - Open Data
   - Cultural Heritage
+  - Federal-Government
 apis: []
 common:
   - type: DomainSecurity
